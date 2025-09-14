@@ -4,13 +4,13 @@ import {GoogleAuthProvider, signInWithPopup, getAuth} from "firebase/auth";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAuEg4EjggqbcGWJSrmnzoMRiOEfiXzDGY",
-    authDomain: "nest-js-auth-a9c8c.firebaseapp.com",
-    projectId: "nest-js-auth-a9c8c",
-    storageBucket: "nest-js-auth-a9c8c.firebasestorage.app",
-    messagingSenderId: "288946990698",
-    appId: "1:288946990698:web:e1815ffea51790613e6413",
-    measurementId: "G-88QX7W9Q5Y"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 const BACKEND_URL = "http://localhost:3000";
